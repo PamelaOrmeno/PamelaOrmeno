@@ -5,7 +5,7 @@ Actualmente estoy enfocada en **JavaScript, desarrollo web y construcción de po
 
 🎯 **Sobre mí:**
 - 🌱 Aprendiendo **JavaScript y desarrollo web con Alura Latam y ONE Oracle**.  
-- 👨‍💻 Explorando **React y GitHub** para mejorar mis proyectos.  
+- 👨‍💻 Explorando **GitHub** para mejorar mis proyectos.  
 - 📌 Compartiendo mi camino de aprendizaje en **LinkedIn y GitHub**.  
 
 💡 **Mis Proyectos Destacados:**  
