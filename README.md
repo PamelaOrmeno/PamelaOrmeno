@@ -9,8 +9,8 @@ Actualmente estoy enfocada en **JavaScript, desarrollo web y construcción de po
 - 📌 Compartiendo mi camino de aprendizaje en **LinkedIn y GitHub**.  
 
 💡 **Mis Proyectos Destacados:**  
+🔹 [Portafolio Personal](https://github.com/PamelaOrmeno/portafolio-profesional)
 🔹 [Amigo Secreto - Sorteo en JS](https://github.com/PamelaOrmeno/challenge-amigo-secreto)  
-🔹 [Portafolio Personal](https://github.com/PamelaOrmeno/portafolio)  
 🔹 [Sistema de Registro](https://github.com/PamelaOrmeno/sistema-de-registro)  
 
 📫 **Conéctate conmigo:**  
