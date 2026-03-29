@@ -9,8 +9,7 @@ Actualmente estoy enfocada en **JavaScript, desarrollo web y construcción de po
 - 📌 Compartiendo mi camino de aprendizaje en **LinkedIn y GitHub**.   
 
 📫 **Conéctate conmigo:**  
-- [LinkedIn](https://www.linkedin.com/in/pamela-ormeño)  
-- [Mi Portafolio](https://portafolio.nexoria.cl/)  
+- [LinkedIn](https://www.linkedin.com/in/pamela-ormeño) 
 
 📊 **Estadísticas de GitHub:**  
 ![Pamela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamelaOrmeno&show_icons=true&theme=radical)
