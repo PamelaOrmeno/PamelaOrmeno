@@ -11,7 +11,4 @@ Actualmente estoy enfocada en **JavaScript, desarrollo web y construcción de po
 📫 **Conéctate conmigo:**  
 - [LinkedIn](https://www.linkedin.com/in/pamela-ormeño) 
 
-📊 **Estadísticas de GitHub:**  
-![Pamela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamelaOrmeno&show_icons=true&theme=radical)
-
 🚀 **Siempre aprendiendo y compartiendo el conocimiento. ¡Sigamos creciendo juntos!**  
